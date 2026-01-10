@@ -6,7 +6,7 @@ df = pd.read_parquet("yellow_tripdata_2024-09.parquet")
 
 cols = [
     "tpep_pickup_datetime",
-    "tpep_dropoff_datetime",
+    "tpep_dropoff_datetime",                                    
     "PULocationID",
     "DOLocationID",
     "passenger_count",
