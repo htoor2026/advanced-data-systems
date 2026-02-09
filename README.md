@@ -6,7 +6,7 @@ This repository contains an end-to-end data engineering and analytics project bu
 The system combines batch analytics, materialized views, query optimization, and real-time caching/stream simulation, reflecting patterns used in modern data platforms.
 
 Datasets Used
-1. OWID COVID-19 Dataset (CSV)
+1. OWID COVID-19 Dataset (CSV)     
 
 Source:
 
